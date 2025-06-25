@@ -10,7 +10,6 @@
 <a href="https://www.youtube.com/c/dhruvi khandelwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dhruvi khandelwal" height="30" width="40" /></a>
 </p>
 
-
 ![Dhruvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvii99&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvii99&layout=compact&theme=radical)
 
