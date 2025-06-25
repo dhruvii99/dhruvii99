@@ -21,7 +21,9 @@
   </a>
 </p>
 
-<!-- GitHub Stats -->
+
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvii99&layout=compact&theme=radical)<!-- GitHub Stats -->
 ![Dhruvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvii99&show_icons=true&theme=radical)
 
  <!-- ADDING SPACE -->
