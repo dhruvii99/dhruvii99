@@ -69,15 +69,45 @@
 </p>
 
 ---
+## 🎯 Current Focus
 
-## 🐍 Contribution Snake (Optional but Cool)
+- 🤖 Building intelligent, AI-powered web applications
 
-```md
-![snake gif](https://github.com/dhruvii99/dhruvii99/blob/output/github-contribution-grid-snake.svg)
+- 🔄 Implementing DevOps practices for seamless deployment and scalability
 
+- 🌐 Developing full stack projects using modern frameworks and cloud tools
 
+- 🧠 Exploring cutting-edge AI/ML technologies and automation
 
-<!-- Top Languages -->
+- 💡 Creating innovative, real-world solutions that make an impact
 
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="(https://www.linkedin.com/in/khandelwal-dhruvi/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/dhruvii.codes?igsh=MTlubDgyZXdmZ2prOQ==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="http://t.me/Risivandev">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:dhruvikhandelwal99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💻 Workspace Space
+
+[![Dhruvi Khandelwal github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruvii99&bg_color=000000&color=f8f7f7&line=0aff27&point=f8f6f6&area=true&hide_border=true)](https://github.com//github-readme-activity-graph)
+
+---
+<p>Thanks for visiting my profile! 😊</p>
 
 
