@@ -6,26 +6,13 @@
 <h3 align="center">A passionate developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvi99&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvi99" /> </p>
 
-- 🔭 I’m currently working on **AI chatbot using various tech stack**
+- 🔭 I’m currently working on **AI chatbot as a team project**
 
-- 🌱 I’m currently learning **react, Ai**
+- 🌱 I’m currently learning **react framework**
 
 - 💬 Ask me about **react,Java**
 
 - 📫 How to reach me **dhruvikhandelwal99@gmail.com**
-
-### 🔗 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/dhruvi khandelwal" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/dhruvii.codes" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/dhruvi khandelwal" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
-</p>
 
 ---
 
